@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm EISHA MEHMOOD</h1>
-<h3 align="center">A Frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Laiba</h1>
+<h3 align="center">A Full Stack developer</h3>
 <img align='right' alt='coding' width =400 src='https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eishamehmood&label=Profile%20views&color=0e75b6&style=flat" alt="eishamehmood" /> </p>
 
 - 🔭 I’m currently working on **Web_Technology**
 
-- 👯 I’m looking to collaborate on **C#,C++,C,HTML,CSS,PHP,JS,Python**
+- 👯 I’m looking to collaborate on **C#,C++,C,HTML,CSS,PHP,JS,Python,.net**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eishamehmood](https://github.com/eishamehmood)
+- 👨‍💻 All of my projects are available at [https://github.com/laibariaz08](https://github.com/laibariaz08)
 
-- 📫 How to reach me **eishamehmood28@gmail.com**
+- 📫 How to reach me **laibariaz548@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eisha-mehmood-5365b0246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eisha-mehmood-5365b0246/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laiba-riaz-81a7302bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
